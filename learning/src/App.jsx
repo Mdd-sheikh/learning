@@ -10,6 +10,7 @@ function App() {
     <>
      <div className="body-first">
         <h1>Welcome to learning Github Day 1</h1>
+        <p>im going to describe that there is no problem in git</p>
      </div>
       
     </>
