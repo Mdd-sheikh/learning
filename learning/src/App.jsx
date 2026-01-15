@@ -12,6 +12,8 @@ function App() {
         <h1>Welcome to learning Github Day 1</h1>
         <p>im going to describe that there is no problem in git</p>
         <p>right now my project is deployed so im gonna happy </p>
+        <img src={viteLogo} alt="" />
+        <p>why is not working</p>
      </div>
       
     </>
